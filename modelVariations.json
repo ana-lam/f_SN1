@@ -1,0 +1,142 @@
+{
+    "fiducial": {
+        "file": "fiducial",
+        "name": "Fiducial",
+        "short": "A",
+        "med": "fiducial",
+        "color": "gray"
+    },
+    "massTransferEfficiencyFixed_0_25": {
+        "file": "massTransferEfficiencyFixed_0_25",
+        "name": "Fixed mass transfer efficiency of $\\beta=0.25$",
+        "short": "B",
+        "med": "$\\beta=0.25$",
+        "color": "#dcb654"
+    },
+    "massTransferEfficiencyFixed_0_5": {
+        "file": "massTransferEfficiencyFixed_0_5",
+        "name": "Fixed mass transfer efficiency of $\\beta=0.5$",
+        "short": "C",
+        "med": "$\\beta=0.5$",
+        "color": "#edc247"
+    },
+    "massTransferEfficiencyFixed_0_75": {
+        "file": "massTransferEfficiencyFixed_0_75",
+        "name": "Fixed mass transfer efficiency of $\\beta=0.75$",
+        "short": "D",
+        "med": "$\\beta=0.75$",
+        "color": "#ffcd36"
+    },
+    "unstableCaseBB": {
+        "file": "unstableCaseBB",
+        "name": "Case BB mass transfer always unstable",
+        "short": "E",
+        "med": "unstable\ncase BB",
+        "color": "#db7814"
+    },
+    "unstableCaseBB_opt": {
+        "file": "unstableCaseBB_opt",
+        "name": "E + K",
+        "short": "F",
+        "med": "E + K",
+        "color": "#e6600e"
+    },
+    "alpha0_1": {
+        "file": "alpha0_1",
+        "name": "CE efficiency parameter of $\\alpha=0.1$",
+        "short": "G",
+        "med": "$\\alpha_{\\rm CE}=0.1$",
+        "color": "#f8927d"
+    },
+    "alpha0_5": {
+        "file": "alpha0_5",
+        "name": "CE efficiency parameter of $\\alpha=0.5$",
+        "short": "H",
+        "med": "$\\alpha_{\\rm CE}=0.5$",
+        "color": "#f1755f"
+    },
+    "alpha2_0": {
+        "file": "alpha2_0",
+        "name": "CE efficiency parameter of $\\alpha=2.0$",
+        "short": "I",
+        "med": "$\\alpha_{\\rm CE}=2.0$",
+        "color": "#e85542"
+    },
+    "alpha10": {
+        "file": "alpha10",
+        "name": "CE efficiency parameter of $\\alpha=10.0$",
+        "short": "J",
+        "med": "$\\alpha_{\\rm CE}=10.0$",
+        "color": "#de2d26"
+    },
+    "optimisticCE": {
+        "file": "optimistic",
+        "name": "HG donor stars initiating CE survive CE",
+        "short": "K",
+        "med": "optimistic\nCE",
+        "color": "#bd5d4c"
+    },
+    "rapid": {
+        "file": "rapid",
+        "name": "Fryer rapid SN remnant mass prescription",
+        "short": "L",
+        "med": "rapid SN",
+        "color": "#016450"
+    },
+    "maxNSmass2_0": {
+        "file": "maxNSmass2_0",
+        "name": "Maximum NS mass = 2.0 ${\\rm M_{\\odot}}$",
+        "short": "M",
+        "med": "max $m_{\\rm NS}$\n$2.0 \\, {\\rm M_{\\odot}}$",
+        "color": "#f6eff7"
+    },
+    "maxNSmass3_0": {
+        "file": "maxNSmass3_0",
+        "name": "Maximum NS mass = 3.0 ${\\rm M_{\\odot}}$",
+        "short": "N",
+        "med": "max $m_{\\rm NS}$\n$3.0 \\, {\\rm M_{\\odot}}$",
+        "color": "#d0d1e6"
+    },
+    "noPISN": {
+        "file": "noPISN",
+        "name": "PISN and pulsational-PISN not implemented",
+        "short": "O",
+        "med": "no PISN",
+        "color": "#a6bddb"
+    },
+    "ccSNkick_100km_s": {
+        "file": "ccSNkick_100km_s",
+        "name": "$\\sigma_{\\rm RMS}^{\\rm 1D} = 100 \\ {\\rm km\\ s^{-1}}$ for core-collapse supernova",
+        "short": "P",
+        "med": "$\\sigma_{\\rm cc}$\n$100 \\, {\\rm km s^{-1}}$",
+        "color": "#02818a"
+    },
+    "ccSNkick_30km_s": {
+        "file": "ccSNkick_30km_s",
+        "name": "$\\sigma_{\\rm RMS}^{\\rm 1D} = 30 \\ {\\rm km\\ s^{-1}}$ for core-collapse supernova",
+        "short": "Q",
+        "med": "$\\sigma_{\\rm cc}$\n$30 \\, {\\rm km s^{-1}}$",
+        "color": "#3690c0"
+    },
+    "noBHkick": {
+        "file": "noBHkick",
+        "name": "BHs receive no natal kicks",
+        "short": "R",
+        "med": "no BH\nkicks",
+        "color": "#67a9cf"
+    },
+    "wolf_rayet_multiplier_0_1": {
+        "file": "wolf_rayet_multiplier_0_1",
+        "name": "Wolf-Rayet wind factor $f_{\\rm WR} = 0.1$",
+        "short": "S",
+        "med": "$f_{\\rm WR} = 0.1$",
+        "color": "#756bb1"
+    },
+    "wolf_rayet_multiplier_5": {
+        "file": "wolf_rayet_multiplier_5",
+        "name": "Wolf-Rayet wind factor $f_{\\rm WR} = 5.0$",
+        "short": "T",
+        "med": "$f_{\\rm WR} = 5.0$",
+        "color": "#534c7b"
+    }
+}
